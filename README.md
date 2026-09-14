@@ -4,7 +4,7 @@ Sistema elaborado para gestão de estacionamento, focado  em rotatividade, mensa
 
 # Motivação para realizar o projeto
 Em primeiro momento a principal motivação, é colocar meus conhecimentos em prática e criar um portifolho. A motivação para seguir com o sistema de estacionamento vem do contato com o ramo desde novo e ultilizar alguns sistemas, e na sua grande maioria sentir falta de alguma coisa que poderia deixar o sistema mais rico.  
----------------------------------------
+---
 
  1° ETAPA 
 -----------------------------
