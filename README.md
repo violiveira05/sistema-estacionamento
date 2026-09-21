@@ -12,11 +12,11 @@ Em primeiro momento a principal motivação, é colocar meus conhecimentos em pr
 
 # Funcionabilidade do produto  (1° etapa)
 -----------------------------
-O sistema está sendo projetado, com intuito organizar e tornar mais praatico e centralizar os processo diario de um estacionamento.
+O sistema está sendo projetado, com intuito organizar e tornar mais pratico e centralizar os processo diario de um estacionamento.
 
 ## ⚙️ Regras de Negócio (1ª Etapa)
 -----------------------------
-Nesta fase inicial de desenvolvimento via terminal, o sistema deve ser capaz de:
+Nesta fase inicial de desenvolvimento o sistema deve ser capaz de:
 
 *   **Cadastrar veículos** com os dados: Placa, Modelo, Marca e Cor.
 *   **Calcular cobrança rotativa** baseada na tabela de preços:
