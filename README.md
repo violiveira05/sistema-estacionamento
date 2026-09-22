@@ -1,30 +1,30 @@
-# sistema-estacionamento
-Sistema elaborado para gestão de estacionamento, focado  em rotatividade, mensalista e cobraça 
+# 🅿️ Sistema de Estacionamento
 
+Sistema para gestão de estacionamento, com foco em rotatividade, mensalistas e cobrança automatizada.
 
-# Motivação para realizar o projeto
+## 💡 Motivação
 
-Em primeiro momento a principal motivação, é colocar meus conhecimentos em prática e criar um portifolho. A motivação para seguir com o sistema de estacionamento vem do contato com o ramo desde novo e ultilizar alguns sistemas, e na sua grande maioria sentir falta de alguma coisa que poderia deixar o sistema mais rico.  
+Este projeto nasceu da vontade de colocar em prática meus conhecimentos em Python 
+e construir um portfólio sólido. A ideia surgiu do contato com o setor de 
+estacionamentos desde cedo — como usuário, sempre senti falta de sistemas mais 
+completos e organizados, o que me motivou a desenvolver o meu próprio.
 
+## 🚧 Etapa Atual: 1ª Etapa
 
- 1° ETAPA 
------------------------------
+### Funcionalidades
 
-# Funcionabilidade do produto  (1° etapa)
------------------------------
-O sistema está sendo projetado, com intuito organizar e tornar mais pratico e centralizar os processo diario de um estacionamento.
+- Cadastro de veículos (placa, modelo, marca e cor)
+- Cálculo de cobrança rotativa:
+  - Até 1 hora: R$ 15,00
+  - Até 3 horas: R$ 30,00
+  - Hora adicional: + R$ 5,00
+- Identificação de mensalistas com isenção de tarifa por hora:
+  - Plano Período: R$ 200,00/mês
+  - Plano Integral: R$ 400,00/mês
 
-## ⚙️ Regras de Negócio (1ª Etapa)
------------------------------
-Nesta fase inicial de desenvolvimento o sistema deve ser capaz de:
+## 🛠️ Tecnologias
 
-*   **Cadastrar veículos** com os dados: Placa, Modelo, Marca e Cor.
-*   **Calcular cobrança rotativa** baseada na tabela de preços:
-     - Até 1 hora: R$ 15,00
-     - Até 3 horas: R$ 30,00
-     - Hora adicional: + R$ 5,00 por hora extra
-*   **Identificar mensalistas** cadastrados para isenção da tarifa por hora:
-    *   Plano Período: R$ 200,00/mês
-    *   Plano Integral: R$ 400,00/mês
+- Python
+- Google Colab
 
 
